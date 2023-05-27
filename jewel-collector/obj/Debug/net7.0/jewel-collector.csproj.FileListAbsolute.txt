@@ -1,0 +1,15 @@
+/Users/Matheus/workspace/projeto-final/jewel-collector/bin/Debug/net7.0/jewel-collector
+/Users/Matheus/workspace/projeto-final/jewel-collector/bin/Debug/net7.0/jewel-collector.deps.json
+/Users/Matheus/workspace/projeto-final/jewel-collector/bin/Debug/net7.0/jewel-collector.runtimeconfig.json
+/Users/Matheus/workspace/projeto-final/jewel-collector/bin/Debug/net7.0/jewel-collector.dll
+/Users/Matheus/workspace/projeto-final/jewel-collector/bin/Debug/net7.0/jewel-collector.pdb
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/jewel-collector.csproj.AssemblyReference.cache
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/jewel-collector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/jewel-collector.AssemblyInfoInputs.cache
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/jewel-collector.AssemblyInfo.cs
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/jewel-collector.csproj.CoreCompileInputs.cache
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/jewel-collector.dll
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/refint/jewel-collector.dll
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/jewel-collector.pdb
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/jewel-collector.genruntimeconfig.cache
+/Users/Matheus/workspace/projeto-final/jewel-collector/obj/Debug/net7.0/ref/jewel-collector.dll
